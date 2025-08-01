@@ -1,6 +1,6 @@
 import React from "react";
 import Aos from "aos";
-import "../dist/aos.css";
+import "../aos.css";
 import Navbar from "./component/navbar/Navbar";
 import Hero from "./component/Hero/Hero";
 import Produk from "./component/Produk/Produk";
